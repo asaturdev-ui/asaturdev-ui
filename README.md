@@ -7,16 +7,16 @@ Voice agents · speech analytics · private corporate assistants · RAG over you
 
 ---
 
-**What I build**
+**What we build**
 
-- 🎙️ **Speech & call analytics** on your own GPU — transcribe and score 100% of calls
+- 🎙️ **Speech & call analytics** on your own hardware — review every call, not a lucky sample
 - 🤖 **Messenger & voice bots** (Telegram / WhatsApp / phone) — no per-seat fee
 - 📚 **Document & knowledge assistants (RAG)** — answers cite the source, never invented
 - 🏢 **Private corporate AI platform** — your own ChatGPT with roles, search, images
 - ⚙️ **Automation & SaaS replacement** — own your AI instead of renting it
-- 🔒 **Self-hosted / on-prem AI infrastructure** — geo-block bypass, data stays in-house
-- 📡 **Data collection & market monitoring** — where no public API exists
+- 🔒 **Self-hosted / on-prem AI infrastructure** — keys and data inside your perimeter
+- 📡 **Data collection & market monitoring** — where no convenient API exists
 
-*One engineer, full cycle — from architecture to production and support.*
+*A senior team, full cycle — from architecture to production and support.*
 
-Full portfolio (EN / RU / HY): **[orsa.cloudsun.ru](https://orsa.cloudsun.ru)**
+Full portfolio (EN / RU): **[orsa.cloudsun.ru](https://orsa.cloudsun.ru)**
